@@ -1,7 +1,7 @@
 My_name
 ==========
 
-:email: xyz@xyz.com	
+:email: william.nguatem@googlemail.com	
 :project: What I will be doing this summer
 :mentor: 
 
